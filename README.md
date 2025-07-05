@@ -1,7 +1,7 @@
 # Vacuum Cleaning Agents Labwork
 
-**Student Name:** Alisha Shrestha
-**CRN:** 021-307 
+**Student Name:** Neha Thakur
+**CRN:** 021-345
 
 ---
 
