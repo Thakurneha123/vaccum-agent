@@ -1,5 +1,4 @@
-# Alisha Shrestha 
-# CRN: 021-307
+
 # Q. Implementation of vacuum cleaning agent as a goal based agent with memory
 
 import random
