@@ -1,5 +1,4 @@
-## Alisha Shrestha 
-# CRN: 021-307
+
 # Q. Implementation of vacuum cleaning agent as a utility-based agent
 # A. Calculates a utility score for every possible adjacent move.
 # A. Dirty tiles get +100 points, and visited tiles get penalties (so it avoids looping).
