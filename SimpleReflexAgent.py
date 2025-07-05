@@ -1,5 +1,4 @@
-# Alisha Shrestha 
-# CRN: 021-307
+
 # Q. Implementation of vacuum cleaning agent as a simple reflex agent
 
 import random
